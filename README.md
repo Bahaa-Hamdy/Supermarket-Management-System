@@ -13,8 +13,9 @@ A full-featured supermarket management system built with **Oracle APEX** and **P
 ## 🛠️ Tech Stack
 - Oracle APEX
 - PL/SQL
-- BI Publisher
-- Oracle Integration Cloud (OIC)
+- AJAX CALLBACK
+- JAVASCRIPT
+- SweetAlert2
 
 ## 🌐 Project Demo
 https://oracleapex.com/ords/r/ftc_apex_sm/supermarket/cashier
