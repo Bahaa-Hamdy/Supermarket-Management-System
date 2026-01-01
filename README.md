@@ -18,5 +18,3 @@ A full-featured supermarket management system built with **Oracle APEX** and **P
 
 ## 🌐 Project Demo
 https://oracleapex.com/ords/r/ftc_apex_sm/supermarket/login
-USERNAME:  BEBO
-PASSWORD:  1234APEX
