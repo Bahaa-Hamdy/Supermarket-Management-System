@@ -17,4 +17,4 @@ A full-featured supermarket management system built with **Oracle APEX** and **P
 - Oracle Integration Cloud (OIC)
 
 ## 🌐 Project Demo
-https://oracleapex.com/ords/r/ftc_apex_sm/supermarket/login
+https://oracleapex.com/ords/r/ftc_apex_sm/supermarket/cashier
